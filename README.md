@@ -4,7 +4,6 @@
 <div align=center> 
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=ffffff"/> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/JAVA-FC4C02?style=for-the-badge&logo=JAVA&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=ffffff"/>
   <br>
   
