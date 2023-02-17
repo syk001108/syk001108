@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=ffffff"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=ffffff"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syk001108&show_icons=true&theme=cobalt2)
 <!--
