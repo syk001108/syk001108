@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=ffffff"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=ffffff"/>
+<p align="center"><img src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=ffffff"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=ffffff"/>
 
 
 
