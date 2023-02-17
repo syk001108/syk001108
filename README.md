@@ -1,4 +1,4 @@
-<div align=center> <h1>👋 Hi there 👋</div>
+<div align=center> <h1>👋 Hi there</div>
 <div align=center><h2>📚 STACKS</h1></div>
 
 <div align=center> 
