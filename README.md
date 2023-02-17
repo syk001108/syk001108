@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff">
   <br>
 
+---
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syk001108&show_icons=true&theme=cobalt2)
   </div>
 <!--
