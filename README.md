@@ -1,8 +1,17 @@
-### Hi there 👋
+<div align=center> <h1>👋 Hi there 👋</div>
+<div align=center><h2>📚 STACKS</h1></div>
 
-<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=ffffff"/>
+<div align=center> 
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=ffffff"/> 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=ffffff"/>
+  <br>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=ffffff">
+  <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syk001108&show_icons=true&theme=cobalt2)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syk001108&show_icons=true&theme=cobalt2)
+  </div>
 <!--
 **syk001108/syk001108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
