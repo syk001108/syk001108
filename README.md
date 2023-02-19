@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff">
   <br>
+  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black">
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=ffffff">
 
 ---
   
