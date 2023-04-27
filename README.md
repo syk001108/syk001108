@@ -15,6 +15,7 @@
   <br>
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black">
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 
 ---
   
