@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=ffffff"/> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <br>
   
 <div align=center><h2>🌱 STUDYING</h1></div>
@@ -15,7 +16,6 @@
   <br>
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black">
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 
 ---
   
