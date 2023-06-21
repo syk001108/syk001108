@@ -19,8 +19,7 @@
 
 ---
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syk001108&show_icons=true&theme=cobalt2)
-  </div>
+
 <!--
 **syk001108/syk001108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
